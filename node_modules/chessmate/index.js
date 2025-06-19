@@ -1,0 +1,1 @@
+import {Chessboard} from './chess/Chessboard.js';
